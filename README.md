@@ -1,2 +1,2 @@
 # E-commerce-
-Proyecto en curso. Usando PHP, HTML, CSS.
+Proyecto en curso. Usando PHP, MYSQL, HTML, CSS, BOOTSTRAP.
